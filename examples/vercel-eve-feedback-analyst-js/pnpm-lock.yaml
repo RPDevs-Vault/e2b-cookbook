@@ -24,8 +24,8 @@ importers:
         specifier: ^0.30.6
         version: 0.30.8(ai@7.0.52(zod@4.4.3))(lru-cache@11.5.2)
       nanoid:
-        specifier: 5.1.11
-        version: 5.1.11
+        specifier: 5.1.16
+        version: 5.1.16
       zod:
         specifier: 4.4.3
         version: 4.4.3
@@ -356,8 +356,8 @@ packages:
     resolution: {integrity: sha512-KZxYo1BUkWD2TVFLr0MQoM8vUUigWD3LlD83a/75BqC+4qE0Hb1Vo5v1FgcfaNXvfXzr+5EhQ6ing/CaBijTlw==}
     engines: {node: '>= 18'}
 
-  nanoid@5.1.11:
-    resolution: {integrity: sha512-v+KEsUv2ps74PaSKv0gHTxTCgMXOIfBEbaqa6w6ISIGC7ZsvHN4N9oJ8d4cmf0n5oTzQz2SLmThbQWhjd/8eKg==}
+  nanoid@5.1.16:
+    resolution: {integrity: sha512-kVrnsrJqMR8+oLJnGEmSWw9BivK5mt7H3FZatVRjrc5wGqFYuBxX1yG7+A7Gi5AefkX6t/oCkizcQgpu0cY1dQ==}
     engines: {node: ^18 || >=20}
     hasBin: true
 
@@ -799,7 +799,7 @@ snapshots:
     dependencies:
       minipass: 7.1.3
 
-  nanoid@5.1.11: {}
+  nanoid@5.1.16: {}
 
   nf3@0.3.23: {}
 
